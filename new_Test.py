@@ -8,7 +8,7 @@ classes = []
 with open("classes.txt", "r") as f:
     classes = f.read().splitlines()
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 font = cv2.FONT_HERSHEY_PLAIN
 starting_time = time.time()
 frame_id = 0 

@@ -1,6 +1,3 @@
-re trai
-re phai
-quay dau
-tang toc
-giam toc 
-dung lai
+retrai
+stop
+rephai
