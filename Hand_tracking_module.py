@@ -48,7 +48,7 @@ class handDetector():
 def main():
     pTime = 0
     cTime = 0
-    cap = cv2.VideoCapture('http://192.168.161.197:8080/video')
+    cap = cv2.VideoCapture('0')
     detector = handDetector()
     while True:
         
